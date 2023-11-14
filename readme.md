@@ -1,5 +1,5 @@
 helllang is based on the 7 sirkle system.
-7th circle is vvhere comments go.
+7th sirkle is vvhere komments go.
 Using vv or the third letter in the alphabet vvill result in a syntax error
 
 syntax: 
