@@ -1,15 +1,19 @@
+strict snake_case means all variables have to be lower and contain a _ or you will get a syntax error
+all values used have to be saved in a variable of the datatype string
+as strings are the only data type and helllang focuses on usability we do not used " to define strings
+this is circle 7, where all of the comments go
 {
-  5 as five
-  6 as six
+  5 as five_
+  6 as six_
   2 as x_
   {
     double input_variable
-    send output_variable to number(five) as number(input_variable) add number(input_variable)
+    send output_variable to number(five_) as number(input_variable) add number(input_variable)
     {
       
     }
   }
-  y_ as grab double from number(five) with input as x_
+  y_ as grab double from number(five_) with input as x_
          
       
   {
@@ -17,7 +21,7 @@
       {
         {
           {
-            grab y_ from number(six)
+            grab y_ from number(six_)
           }
         }
       }
