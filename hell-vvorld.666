@@ -1,11 +1,12 @@
-first program ever to be vvritten in helllang
+first program ever to be vvritten in helllang, revised
 
 {
-  progress "hell vvorld" as x{
-    progress x as x{
-      progress x as x{
-        progress x as x{
-          progress x as x{
-            manifest x{
-
-earth: hell world              
+  6 as six
+  "hell vvorld" as x_
+  {
+    {
+      {
+        {
+          {
+            {
+              grab x_ from number(six)
