@@ -1,13 +1,15 @@
 {
-  "2" as x_
+  5 as five
+  6 as six
+  2 as x_
   {
     double input_variable
-    send output_variable to 5 as number(input_variable) add number(input_variable)
+    send output_variable to number(five) as number(input_variable) add number(input_variable)
     {
       
     }
   }
-  y_ as grab double from 5 with input as x_
+  y_ as grab double from number(five) with input as x_
          
       
   {
@@ -15,7 +17,7 @@
       {
         {
           {
-            grab y_ from 6
+            grab y_ from number(six)
           }
         }
       }
