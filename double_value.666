@@ -7,6 +7,7 @@ this is sirkle 7, where all of the comments go
   6 as six_
   2 as two_
   2 as x_
+  0 as y_
   {
     double input_variable
     summon number(input_variable) times two_
