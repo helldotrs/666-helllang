@@ -5,10 +5,11 @@ this is sirkle 7, where all of the comments go
 {
   5 as five_
   6 as six_
+  2 as two_
   2 as x_
   {
     double input_variable
-    send output_variable to number(five_) as number(input_variable) add number(input_variable)
+    summon number(input_variable) times two_
     {
       
     }
