@@ -24,7 +24,9 @@ this is sirkle 7, where all of the comments go
       {
         {
           {
-            grab y_ from number(SIX_)
+            {
+              grab y_ from number(SIX_)
+            }
           }
         }
       }
