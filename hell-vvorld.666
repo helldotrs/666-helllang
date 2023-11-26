@@ -1,7 +1,8 @@
 first program ever to be vvritten in helllang, revised
 
 {
-  6 as six
+  6 as SIX_
+
   "hell vvorld" as x_
   {
     {
@@ -9,4 +10,4 @@ first program ever to be vvritten in helllang, revised
         {
           {
             {
-              grab x_ from number(six)
+              grab x_ from number(SIX_)
