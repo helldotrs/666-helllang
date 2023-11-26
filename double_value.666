@@ -11,12 +11,12 @@ this is sirkle 7, where all of the comments go
   0 as y_
   {
     double input_variable
-    summon number(input_variable) times two_
+    summon number(input_variable) times TWO_
     {
       
     }
   }
-  y_ as grab double from number(five_) with input as x_
+  y_ as grab double from number(FIVE_) with input as x_
          
       
   {
@@ -24,7 +24,7 @@ this is sirkle 7, where all of the comments go
       {
         {
           {
-            grab y_ from number(six_)
+            grab y_ from number(SIX_)
           }
         }
       }
